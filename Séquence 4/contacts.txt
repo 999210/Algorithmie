@@ -1,0 +1,5 @@
+Martin,Jean,jean.martin@exemple.com
+Bernard,Claire,claire.bernard@exemple.com
+Dupont ,Marie,marie.dupont@exemple.com
+Durand,Marc,marc.durand@exemple.com
+Lefevre,Sophie,sophie.lefevre@exemple.com

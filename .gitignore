@@ -1,0 +1,34 @@
+# 1. Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 2. Fichiers de logs et de débogage
+*.log
+*.stackdump
+
+# 3. Dossiers temporaires ou de cache
+*.cache
+*.tmp
+
+# 4. Environnements virtuels Python
+venv/
+env/
+*.venv/
+
+# 5. Fichiers de configuration d'outils
+*.ini
+*.cfg
+*.env
+
+# 6. Fichiers spécifiques aux éditeurs/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 7. Dossiers de résultats ou de tests
+/output/
+*.csv
+*.tsv
+*.xlsx
